@@ -2,7 +2,7 @@
 
 官方链接：https://github.com/cofess/hexo-theme-pure
 
-v 1.0
+# v 1.0
 > update_at:2020/2/9
 
 1.除去文章底部的copyright
